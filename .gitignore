@@ -1,0 +1,6 @@
+myenv/
+__pycache__/
+*.py[cod]
+constants.py
+.env
+.streamlit/secrets.toml
